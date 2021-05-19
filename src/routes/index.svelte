@@ -17,7 +17,7 @@
 
 			function drainBattery() {
 				setInterval(() => {
-					console.log(fibonacci(35));
+					fibonacci(35);
 				}, 50);
 			}
 
